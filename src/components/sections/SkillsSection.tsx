@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { SkillBar } from '../ui/SkillBar';
 import { SectionHeading } from '../ui/SectionHeading';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
-import { Code, Cpu, Database, Globe, Layout, Palette } from 'lucide-react';
+import { Code, Cpu, } from 'lucide-react';
 
 interface SkillCategory {
   icon: React.ReactNode;
