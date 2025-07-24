@@ -86,7 +86,7 @@ export const HeroSection: React.FC = () => {
             <div className="relative w-full aspect-square rounded-full overflow-hidden border-8 border-white dark:border-gray-800 shadow-xl">
               <img 
                 src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" 
-                alt="Alex Johnson" 
+                alt="sai srinivas" 
                 className="w-full h-full object-cover"
               />
             </div>
