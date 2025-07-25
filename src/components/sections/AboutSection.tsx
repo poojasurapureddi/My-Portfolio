@@ -97,7 +97,7 @@ When I'm not coding, you'll find me experimenting with modern UI trends, buildin
               Download Resume
             </Button> */}
             <a 
-              href="/assets/srinivas_frontend_resume.pdf" 
+              href="/srinivas_frontend_resume.pdf" 
               download="Srinivas_Frontend_Resume.pdf" 
               style={{ textDecoration: 'none' }}
             >
