@@ -22,9 +22,10 @@ export const AboutSection: React.FC = () => {
           <div ref={ref1} className={`transition-all duration-700 ${inView1 ? 'opacity-100' : 'opacity-0 translate-y-10'}`}>
             <div className="relative">
               <img 
-                src="https://images.pexels.com/photos/5704849/pexels-photo-5704849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" 
+                src="/assets/Aboutpageimg.png" 
+                // rounded-lg shadow-lg src="https://images.pexels.com/photos/5704849/pexels-photo-5704849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" 
                 alt="About Me" 
-                className="w-full h-auto rounded-lg shadow-lg"
+                className="w-full h-[750px] rounded-lg shadow-md"
               />
               
               <div className="absolute -bottom-6 -right-6 p-4 bg-white dark:bg-gray-800 rounded-lg shadow-lg">
@@ -81,7 +82,7 @@ With hands-on experience in the full development lifecycle—from prototyping to
                 </div>
                 <div>
                   <h4 className="font-medium">Specialization</h4>
-                  <p className="text-gray-600 dark:text-gray-400">React, Node.js</p>
+                  <p className="text-gray-600 dark:text-gray-400">React, Next.js</p>
                 </div>
               </div>
             </div>
