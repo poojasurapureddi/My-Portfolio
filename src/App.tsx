@@ -11,7 +11,7 @@ import { ThemeProvider } from './context/ThemeContext';
 function App() {
   useEffect(() => {
     // Update the page title
-    document.title = "Sai Srinivas | Portfolio";
+    document.title = "Pooja Surapureddi | Portfolio";
     
     // Handle scroll animations
     const handleScroll = () => {

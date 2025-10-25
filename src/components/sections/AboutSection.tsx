@@ -52,7 +52,7 @@ With hands-on experience in the full development lifecycle—from prototyping to
                 </div>
                 <div>
                   <h4 className="font-medium">Name</h4>
-                  <p className="text-gray-600 dark:text-gray-400">Sai Srinivas Dasari</p>
+                  <p className="text-gray-600 dark:text-gray-400">Pooja Surapureddi</p>
                 </div>
               </div>
               
@@ -98,8 +98,8 @@ When I'm not coding, you'll find me experimenting with modern UI trends, buildin
               Download Resume
             </Button> */}
             <a 
-              href="/srinivas_frontend_resume.pdf" 
-              download="Srinivas_Frontend_Resume.pdf" 
+              href="/Pooja-Surapureddi-Resume.pdf" 
+              download="Pooja-Surapureddi-Resume.pdf" 
               style={{ textDecoration: 'none' }}
             >
               <Button 

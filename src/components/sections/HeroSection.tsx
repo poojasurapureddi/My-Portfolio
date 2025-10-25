@@ -30,7 +30,7 @@ export const HeroSection: React.FC = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.3, duration: 0.8 }}
             >
-              Hi, I'm <span className="text-primary-500">Sai Srinivas</span>
+              Hi, I'm <span className="text-primary-500">Pooja Surapureddi</span>
             </motion.h1>
             
             <motion.p 
@@ -58,7 +58,7 @@ export const HeroSection: React.FC = () => {
               
               <div className="flex items-center gap-3">
                 <a 
-                  href="https://github.com/saisrinivasdasari" 
+                  href="https://github.com/poojasurapureddi" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-2 bg-gray-100 dark:bg-gray-800 rounded-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
@@ -66,7 +66,7 @@ export const HeroSection: React.FC = () => {
                   <Github size={24} />
                 </a>
                 <a 
-                  href="https://www.linkedin.com/in/saisrinivas-dasari/" 
+                  href="https://www.linkedin.com/in/pooja-surapureddi/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-2 bg-gray-100 dark:bg-gray-800 rounded-full text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
@@ -85,9 +85,9 @@ export const HeroSection: React.FC = () => {
           >
             <div className="relative w-full aspect-square rounded-full overflow-hidden border-8 border-white dark:border-gray-800 shadow-xl">
               <img 
-                src="/assets/IMG_2348.png" 
+                src="/assets/Pooja.jpg" 
                 // src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" 
-                alt="sai srinivas" 
+                alt="Pooja Surapureddi" 
                 className="w-full h-full object-cover"
               />
             </div>

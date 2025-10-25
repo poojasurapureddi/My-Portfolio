@@ -53,7 +53,7 @@ const skillCategories: SkillCategory[] = [
     skills: [
       { name: 'Git & GitHub', level: 90 },
       { name: 'SQL', level: 70 },
-      { name: 'powerBI', level: 75 },
+      { name: 'VsCode', level: 75 },
       { name: 'python', level: 80 },
     ],
   },
